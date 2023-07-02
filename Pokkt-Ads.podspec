@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name              = 'Pokkt-Ads'
 
-    s.version           = '8.2.1.1'
+    s.version           = '8.2.2.1'
 
     s.summary           = 'Pokkt-Ads'
 
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
     s.platform          = :ios
 
-    s.source            = { :http => 'https://github.com/AnyMindG/AnyManagerSDK/releases/download/300.1.0/PokktAds.zip'}
+    s.source            = { :http => 'https://github.com/AnyMindG/AnyManagerSDK/releases/download/8.2.2.2/PokktAds.zip'}
 
     s.vendored_frameworks = 'PokktAds/PokktSDK.xcframework'
 
